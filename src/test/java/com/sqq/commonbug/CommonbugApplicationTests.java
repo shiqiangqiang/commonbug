@@ -8,6 +8,7 @@ class CommonbugApplicationTests {
 
     @Test
     void contextLoads() {
+
     }
 
 }
